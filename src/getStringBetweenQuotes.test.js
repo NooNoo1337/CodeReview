@@ -1,7 +1,7 @@
 'use strict';
 
 const assert = require('assert').strict;
-const { getStringBetweenQuotes } = require('./between.js');
+const { getStringBetweenQuotes } = require('./getStringBetweenQuotes.js');
 
 {
   const line = '<richelieu@gmail.fr>';
